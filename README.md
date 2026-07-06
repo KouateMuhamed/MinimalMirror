@@ -1,6 +1,5 @@
-# Disclaimer
-
-This repository is a clean re-upload of a project originally created in 2020 with [@Alek6](https://github.com/Alek6).
+> **Disclaimer:** This repository is a clean re-upload of a project originally created in 2020 with
+> [@Alek6](https://github.com/Alek6).
 
 # Minimal Mirror
 
