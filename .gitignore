@@ -56,6 +56,7 @@ Temporary Items
 
 # Ignore all modules
 /modules/*
+!/modules/.gitkeep
 
 # Ignore users config files but keep the committed examples and secure baseline.
 config/*
