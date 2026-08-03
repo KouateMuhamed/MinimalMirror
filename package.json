@@ -102,7 +102,7 @@
 		"socket.io": "^4.8.3",
 		"suncalc": "^2.0.0",
 		"systeminformation": "^5.31.11",
-		"undici": "^8.5.0",
+		"undici": "^8.10.0",
 		"weathericons": "^2.1.0"
 	},
 	"devDependencies": {
