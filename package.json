@@ -126,7 +126,7 @@
 		"playwright": "^1.61.1",
 		"prettier": "^3.9.4",
 		"prettier-plugin-jinja-template": "^2.2.0",
-		"vitest": "^4.1.9"
+		"vitest": "^4.1.11"
 	},
 	"optionalDependencies": {
 		"electron": "^42.5.2"
